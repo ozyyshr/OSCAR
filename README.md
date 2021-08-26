@@ -1,2 +1,6 @@
 # OSCAR
-Smoothing Dialogue States for Open Conversational Machine Reading (EMNLP 2021)
+
+This repo contains codes for the following paper:
+
+Smoothing Dialogue States for Open Conversational Machine Reading.
+
